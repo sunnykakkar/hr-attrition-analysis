@@ -25,7 +25,7 @@ IBM HR Analytics Employee Attrition dataset — 1,470 records, 35 original colum
 **Overall attrition rate:** 16.1% across all 1,470 employees.
 
 ## Files
-- `hr_attrition.csv` — cleaned dataset with helper columns
+- `hr_attrition.xlsx` — cleaned dataset with helper columns
 - Dashboard screenshots
 
 ## Recommendations
